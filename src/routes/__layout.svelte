@@ -1,5 +1,4 @@
 <script>
-	import { title } from "../stores/global.js";
   import "../app.css";
 </script>
 
@@ -8,5 +7,5 @@
 </div>
 
 <svelte:head>
-  <title>{$title}</title>
+  <title>Alex & Claus Wedding</title>
 </svelte:head>
