@@ -4,4 +4,6 @@
 
 <h1 class="text-5xl md:text-6xl font-bold text-center text-secondary font-heading">Alex & Claus</h1>
 <h2 class="text-5xl md:text-6xl font-bold text-center text-secondary font-heading">Invitatie la Nunta</h2>
-<Form />
+<div class="flex">
+	<Form />
+</div>
